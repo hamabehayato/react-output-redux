@@ -3,7 +3,6 @@
  *
  * @package components
  */
-import { useState, useMemo } from "react"
 import styles from "./styles.module.css"
 import { TrashIcon } from "../../atoms/Icons/Trash"
 

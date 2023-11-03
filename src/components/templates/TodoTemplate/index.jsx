@@ -9,7 +9,6 @@ import { useTodo } from "../../../hooks/useTodo"
 import styles from "./styles.module.css"
 
 export const TodoTemplate = () => {
-  // console.log(useTodo())
   const [
     { todoVal, searchVal, showTodolist },
     {
